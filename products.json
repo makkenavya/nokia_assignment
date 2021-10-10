@@ -1,0 +1,16 @@
+{
+  "nokia_g20": {
+    "id": "nokia_g20",
+    "name": "Nokia G20 Smartphone",
+    "description": "A 48 MP quad camera with powerful AI imaging modes and OZO Audio,Up to 3 days without charging with AI-assisted battery with finger print recognition,",
+    "price": 13429.0,
+    "visitedCount": 2
+  },
+  "nokia_3310": {
+    "id": "nokia_3310",
+    "name": "Nokia 3310",
+    "description": "Dual SIM phone,2.4-inch (6.1 cm) screen,22 hours talk time",
+    "price": 3799.0,
+    "visitedCount": 1
+  }
+}
